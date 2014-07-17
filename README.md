@@ -11,5 +11,5 @@ ipcalc
  
  Or:
  
- bin/ipkill <<<  nau.gh.ty.ip
+ ./ipkill <<<  nau.gh.ty.ip
  
